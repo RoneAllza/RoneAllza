@@ -12,7 +12,7 @@ I'm a backend developer who thrives on solving problems and building robust appl
 
 ## 🏃‍♂️ Hobbies
 
-When I'm not coding, you'll find me speed reading novels. I love getting lost in stories and learning from different worlds and perspectives.
+When I'm not coding, you'll find me speed reading novels. I love getting lost in stories and learning from different worlds and perspectives. And also, an avid KAF listener.
 
 ## 💡 Fun Fact
 
