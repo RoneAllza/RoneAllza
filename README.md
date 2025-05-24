@@ -21,3 +21,5 @@ I might be a self-proclaimed lazy coder, but that just means I'm always looking 
 ---
 
 🌱 **Always learning, always building.** Feel free to connect or check out my projects below!
+
+<img align="center" src="snake.svg" />
