@@ -24,6 +24,18 @@ I might be a self-proclaimed lazy coder, but that just means I'm always looking 
 
 <img align="center" src="snake.svg" />
 
-<a href="https://github.com/RoneAllza/RoneAllza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=RoneAllza&theme=dark" />
+<a href="https://github.com/RoneAllza/medeecare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=medeecare&theme=dark" />
+</a>
+
+<a href="https://github.com/RoneAllza/ta-ghgdashboard-laravelversion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=ta-ghgdashboard-laravelversion&theme=dark" />
+</a>
+
+<a href="https://github.com/RoneAllza/TAv2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=TAv2&theme=dark" />
+</a>
+
+<a href="https://github.com/RoneAllza/DhuAMaProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=DhuAMaProject&theme=dark" />
 </a>
