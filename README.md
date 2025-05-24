@@ -24,23 +24,24 @@ I might be a self-proclaimed lazy coder, but that just means I'm always looking 
 
 <img align="center" src="snake.svg" />
 
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: nowrap;">
-  <a href="https://github.com/RoneAllza/medeecare" target="_blank" rel="noopener noreferrer" style="display: block; width: 150px; height: 100px; overflow: hidden; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2);">
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: nowrap;">
+  <a href="https://github.com/RoneAllza/medeecare" target="_blank" rel="noopener noreferrer" style="display: block; width: 100px; height: 65px; overflow: hidden; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=medeecare&theme=dark" alt="medeecare repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/ta-ghgdashboard-laravelversion" target="_blank" rel="noopener noreferrer" style="display: block; width: 150px; height: 100px; overflow: hidden; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2);">
+  <a href="https://github.com/RoneAllza/ta-ghgdashboard-laravelversion" target="_blank" rel="noopener noreferrer" style="display: block; width: 100px; height: 65px; overflow: hidden; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=ta-ghgdashboard-laravelversion&theme=dark" alt="ta-ghgdashboard-laravelversion repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/TAv2" target="_blank" rel="noopener noreferrer" style="display: block; width: 150px; height: 100px; overflow: hidden; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2);">
+  <a href="https://github.com/RoneAllza/TAv2" target="_blank" rel="noopener noreferrer" style="display: block; width: 100px; height: 65px; overflow: hidden; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=TAv2&theme=dark" alt="TAv2 repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/DhuAMaProject" target="_blank" rel="noopener noreferrer" style="display: block; width: 150px; height: 100px; overflow: hidden; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,0.2);">
+  <a href="https://github.com/RoneAllza/DhuAMaProject" target="_blank" rel="noopener noreferrer" style="display: block; width: 100px; height: 65px; overflow: hidden; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=DhuAMaProject&theme=dark" alt="DhuAMaProject repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 </div>
+
 
 
 
