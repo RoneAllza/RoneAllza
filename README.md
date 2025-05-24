@@ -24,44 +24,22 @@ I might be a self-proclaimed lazy coder, but that just means I'm always looking 
 
 <img align="center" src="snake.svg" />
 
-<style>
-  .repo-pins {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center; /* or flex-start */
-  }
-  .repo-pins a {
-    display: block;
-    width: 220px; /* fixed width */
-    height: 150px; /* fixed height */
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgb(0 0 0 / 0.3);
-  }
-  .repo-pins a img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* maintain aspect ratio and crop if needed */
-    display: block;
-  }
-</style>
-
-<div class="repo-pins">
-  <a href="https://github.com/RoneAllza/medeecare" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=medeecare&theme=dark" alt="medeecare repo" />
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/RoneAllza/medeecare" target="_blank" rel="noopener noreferrer" style="display: block; width: 220px; height: 150px; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=medeecare&theme=dark" alt="medeecare repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/ta-ghgdashboard-laravelversion" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=ta-ghgdashboard-laravelversion&theme=dark" alt="ta-ghgdashboard-laravelversion repo" />
+  <a href="https://github.com/RoneAllza/ta-ghgdashboard-laravelversion" target="_blank" rel="noopener noreferrer" style="display: block; width: 220px; height: 150px; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=ta-ghgdashboard-laravelversion&theme=dark" alt="ta-ghgdashboard-laravelversion repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/TAv2" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=TAv2&theme=dark" alt="TAv2 repo" />
+  <a href="https://github.com/RoneAllza/TAv2" target="_blank" rel="noopener noreferrer" style="display: block; width: 220px; height: 150px; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=TAv2&theme=dark" alt="TAv2 repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 
-  <a href="https://github.com/RoneAllza/DhuAMaProject" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=DhuAMaProject&theme=dark" alt="DhuAMaProject repo" />
+  <a href="https://github.com/RoneAllza/DhuAMaProject" target="_blank" rel="noopener noreferrer" style="display: block; width: 220px; height: 150px; overflow: hidden; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoneAllza&repo=DhuAMaProject&theme=dark" alt="DhuAMaProject repo" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
   </a>
 </div>
+
 
